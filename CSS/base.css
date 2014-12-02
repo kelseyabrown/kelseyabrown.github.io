@@ -82,3 +82,15 @@ footer {
     font-size: 12px;
     padding: 0 10px 0 10px;
 }
+
+/* resume-specific styles */
+
+#resume h2 { 
+    color: black;
+    font-size: 16px;
+}
+
+#resume h3 { 
+    color: black; 
+    font-size: 14px;
+}
