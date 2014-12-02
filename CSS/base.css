@@ -77,9 +77,10 @@ aside{
     
 }
 
+
 footer {
     clear: both;
-    font-size: 12px;
+    font-size: 16px;
     padding: 0 10px 0 10px;
 }
 
@@ -87,10 +88,15 @@ footer {
 
 #resume h2 { 
     color: black;
-    font-size: 16px;
+    font-size: 14px;
 }
 
 #resume h3 { 
     color: black; 
-    font-size: 14px;
+    font-size: 12px;
+}
+
+#resume h1 {
+    color: black;
+    font-size: 18px;
 }
